@@ -44,3 +44,5 @@ image.save("linkedin-QR-code.png")
 
 
 
+
+
